@@ -1,4 +1,4 @@
-![logo](C:\Users\rajku\Downloads\banner (1).png)
+
 <h1 align="center">Hi 👋, I'm Raazz Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
