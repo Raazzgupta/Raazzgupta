@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rajkumar68580@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Funny.**
+- ⚡ Fun fact **I Think I'm a Fast Learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
