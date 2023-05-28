@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/raaz_gupta98" target="blank"><img src="https://img.shields.io/twitter/follow/raaz_gupta98?logo=twitter&style=for-the-badge" alt="raaz_gupta98" /></a> </p>
 
-- 🌱 I’m currently learning Web Development **Javascript**
+- 🌱 I’m currently learning Web Development
 
 - 📫 How to reach me **rajkumar68580@gmail.com**
 
