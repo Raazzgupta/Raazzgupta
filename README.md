@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-sah-470323308/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_raazzgupta/)
 
-### Glad to see you here! &nbsp;<img height="35px" width="35px" align="right"src=https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif/>
+### Glad to see you here! &nbsp;<img src=https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif/>
 
 
 I want to be a Software Developer but I am currently in college Persuing Btech in Computer Sciemce Engineering,with a mission to revolutionize how the world hires with AI. 🚀
