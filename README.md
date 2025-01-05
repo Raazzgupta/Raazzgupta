@@ -1,4 +1,4 @@
-## Hey there 👋, I'm <a href="https://github.com/Raazzgupta">Raaj</a>
+## Hey there 👋, I'm <a href="https://github.com/Raj-Kumar-Sah/">Raaj</a>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Raaz_Gupta98)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-sah-470323308/)
@@ -22,9 +22,9 @@ Joined Github **2** years ago.
 
 Since then I pushed **10**+ commits, opened **5**+ issues, submitted **1**+ pull requests, created **6**+ gists and contributed to **8**+ public repositories.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raazzgupta&label=Profile%20views&color=0e75b6&style=flat" alt="raazzgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-Kumar-Sah&label=Profile%20views&color=0e75b6&style=flat" alt="raazzgupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raazzgupta" alt="Raazzgupta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raj-Kumar-Sah" alt="Raazzgupta" /></a> </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
