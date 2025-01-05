@@ -1,4 +1,4 @@
-## Hey there 👋, I'm ([<a href="https://github.com/Raazzgupta">Raaj</a>])([https://github.com/Raazzgupta])
+## Hey there 👋, I'm <a href="https://github.com/Raazzgupta">Raaj</a>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Raaz_Gupta98)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-sah-470323308/)
