@@ -58,8 +58,8 @@ Since then I pushed **10**+ commits, opened **5**+ issues, submitted **1**+ pull
   
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 Home</li>
-	    <li><b>Laptop: </b> HP 320</li>
+  	    <li><b>OS:</b> Windows 11 </li>
+	    <li><b>Laptop: </b> HP 15s</li>
   	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode & intellijIdea - The best editor out there</li>
